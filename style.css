@@ -5,4 +5,17 @@ p{
 
 h1{
     text-align: center;
+    color: brown;
+}
+
+text{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+strong{
+    color:brown;
 }
