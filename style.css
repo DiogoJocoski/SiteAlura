@@ -6,7 +6,9 @@ p{
 
 #imagem{
     width: 100%;
+    padding-left: 20%;
 }
+
 h1{
     text-align: center;
     color: brown;
@@ -18,4 +20,17 @@ body{
 
 strong{
     color:brown;
+}
+
+.itens{
+    font-style: italic;
+    color: white;
+}
+
+.beneficios{
+    background: #202020;
+}
+
+h2{
+    color: white;
 }
