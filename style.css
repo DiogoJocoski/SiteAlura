@@ -1,12 +1,12 @@
+.imagem{
+    width: 100%;
+    padding-left: 20%;
+}
+
 p{
     font: size 22px;
     text-align: center;
     color: white;
-}
-
-#imagem{
-    width: 100%;
-    padding-left: 20%;
 }
 
 h1{
