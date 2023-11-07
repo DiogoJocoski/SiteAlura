@@ -5,6 +5,10 @@ body{
 .imagem{
     width: 200px;
     height 220px;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 p{
