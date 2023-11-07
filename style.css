@@ -2,8 +2,11 @@ body{
     background-color: black;
 }
 
-.imagem{
-    
+#imagem{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
 p{
